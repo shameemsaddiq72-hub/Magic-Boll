@@ -1,0 +1,6 @@
+{
+  "name": "MAGIC BALL STUDIO: Customize, Transform & Play",
+  "description": "Create Your Ball. Change Your Style. Play Your Adventure. Complete 3D character customization studio and playable arcade platformer game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
